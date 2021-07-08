@@ -128,5 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# PyCharm .idea
+.idea
+
 # My test file
 /yadisk-ru/my.py
+
